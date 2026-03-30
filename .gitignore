@@ -7,12 +7,6 @@ __pycache__/
 *.so
 
 .DS_Store
-__pycache__/
-.pytest_cache/
-.mypy_cache/
-.venv/
-venv/
-.env
 
 # Distribution / packaging
 .Python
