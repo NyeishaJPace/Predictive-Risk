@@ -1,0 +1,4502 @@
+[
+  {
+    "patient_id": 1000,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.78
+  },
+  {
+    "patient_id": 1001,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.59
+  },
+  {
+    "patient_id": 1002,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1003,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.61
+  },
+  {
+    "patient_id": 1004,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1005,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.16
+  },
+  {
+    "patient_id": 1006,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1007,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.4
+  },
+  {
+    "patient_id": 1008,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1009,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1010,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1011,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.18
+  },
+  {
+    "patient_id": 1012,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1013,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.2
+  },
+  {
+    "patient_id": 1014,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1015,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.21
+  },
+  {
+    "patient_id": 1016,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.37
+  },
+  {
+    "patient_id": 1017,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1018,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.42
+  },
+  {
+    "patient_id": 1019,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1020,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.17
+  },
+  {
+    "patient_id": 1021,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.18
+  },
+  {
+    "patient_id": 1022,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1023,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1024,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1025,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.73
+  },
+  {
+    "patient_id": 1026,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1027,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1028,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1029,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.8
+  },
+  {
+    "patient_id": 1030,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.52
+  },
+  {
+    "patient_id": 1031,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.55
+  },
+  {
+    "patient_id": 1032,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1033,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.5
+  },
+  {
+    "patient_id": 1034,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.4
+  },
+  {
+    "patient_id": 1035,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.33
+  },
+  {
+    "patient_id": 1036,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.56
+  },
+  {
+    "patient_id": 1037,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1038,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.68
+  },
+  {
+    "patient_id": 1039,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1040,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.91
+  },
+  {
+    "patient_id": 1041,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1042,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.21
+  },
+  {
+    "patient_id": 1043,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.36
+  },
+  {
+    "patient_id": 1044,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1045,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1046,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.89
+  },
+  {
+    "patient_id": 1047,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1048,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.24
+  },
+  {
+    "patient_id": 1049,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.52
+  },
+  {
+    "patient_id": 1050,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1051,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1052,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.92
+  },
+  {
+    "patient_id": 1053,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.76
+  },
+  {
+    "patient_id": 1054,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1055,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1056,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.58
+  },
+  {
+    "patient_id": 1057,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1058,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.11
+  },
+  {
+    "patient_id": 1059,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.31
+  },
+  {
+    "patient_id": 1060,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1061,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1062,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.14
+  },
+  {
+    "patient_id": 1063,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.92
+  },
+  {
+    "patient_id": 1064,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.45
+  },
+  {
+    "patient_id": 1065,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1066,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.51
+  },
+  {
+    "patient_id": 1067,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1068,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1069,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1070,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1071,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.92
+  },
+  {
+    "patient_id": 1072,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.13
+  },
+  {
+    "patient_id": 1073,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1074,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1075,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1076,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1077,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1078,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.78
+  },
+  {
+    "patient_id": 1079,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.79
+  },
+  {
+    "patient_id": 1080,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.21
+  },
+  {
+    "patient_id": 1081,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1082,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.36
+  },
+  {
+    "patient_id": 1083,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.34
+  },
+  {
+    "patient_id": 1084,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1085,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1086,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1087,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.35
+  },
+  {
+    "patient_id": 1088,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1089,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1090,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1091,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.93
+  },
+  {
+    "patient_id": 1092,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.24
+  },
+  {
+    "patient_id": 1093,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1094,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.42
+  },
+  {
+    "patient_id": 1095,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1096,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.8
+  },
+  {
+    "patient_id": 1097,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.91
+  },
+  {
+    "patient_id": 1098,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1099,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.9
+  },
+  {
+    "patient_id": 1100,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1101,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.17
+  },
+  {
+    "patient_id": 1102,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.24
+  },
+  {
+    "patient_id": 1103,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1104,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1105,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1106,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1107,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.82
+  },
+  {
+    "patient_id": 1108,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.33
+  },
+  {
+    "patient_id": 1109,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.34
+  },
+  {
+    "patient_id": 1110,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.32
+  },
+  {
+    "patient_id": 1111,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.56
+  },
+  {
+    "patient_id": 1112,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.41
+  },
+  {
+    "patient_id": 1113,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1114,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1115,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.1
+  },
+  {
+    "patient_id": 1116,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1117,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1118,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.4
+  },
+  {
+    "patient_id": 1119,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1120,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.13
+  },
+  {
+    "patient_id": 1121,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1122,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1123,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.82
+  },
+  {
+    "patient_id": 1124,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.21
+  },
+  {
+    "patient_id": 1125,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.34
+  },
+  {
+    "patient_id": 1126,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1127,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.73
+  },
+  {
+    "patient_id": 1128,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.12
+  },
+  {
+    "patient_id": 1129,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1130,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1131,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.43
+  },
+  {
+    "patient_id": 1132,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.5
+  },
+  {
+    "patient_id": 1133,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1134,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.1
+  },
+  {
+    "patient_id": 1135,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.36
+  },
+  {
+    "patient_id": 1136,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1137,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.33
+  },
+  {
+    "patient_id": 1138,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.47
+  },
+  {
+    "patient_id": 1139,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.58
+  },
+  {
+    "patient_id": 1140,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1141,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.86
+  },
+  {
+    "patient_id": 1142,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.72
+  },
+  {
+    "patient_id": 1143,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.61
+  },
+  {
+    "patient_id": 1144,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1145,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1146,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.24
+  },
+  {
+    "patient_id": 1147,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.79
+  },
+  {
+    "patient_id": 1148,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.46
+  },
+  {
+    "patient_id": 1149,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.41
+  },
+  {
+    "patient_id": 1150,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.4
+  },
+  {
+    "patient_id": 1151,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1152,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.59
+  },
+  {
+    "patient_id": 1153,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1154,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.92
+  },
+  {
+    "patient_id": 1155,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1156,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.48
+  },
+  {
+    "patient_id": 1157,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1158,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.72
+  },
+  {
+    "patient_id": 1159,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1160,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.37
+  },
+  {
+    "patient_id": 1161,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.79
+  },
+  {
+    "patient_id": 1162,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1163,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.57
+  },
+  {
+    "patient_id": 1164,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1165,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1166,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1167,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1168,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.87
+  },
+  {
+    "patient_id": 1169,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.45
+  },
+  {
+    "patient_id": 1170,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.5
+  },
+  {
+    "patient_id": 1171,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.18
+  },
+  {
+    "patient_id": 1172,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.32
+  },
+  {
+    "patient_id": 1173,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1174,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.43
+  },
+  {
+    "patient_id": 1175,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.1
+  },
+  {
+    "patient_id": 1176,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1177,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1178,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1179,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1180,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.52
+  },
+  {
+    "patient_id": 1181,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.8
+  },
+  {
+    "patient_id": 1182,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.93
+  },
+  {
+    "patient_id": 1183,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1184,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1185,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.51
+  },
+  {
+    "patient_id": 1186,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1187,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.93
+  },
+  {
+    "patient_id": 1188,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.44
+  },
+  {
+    "patient_id": 1189,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1190,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.4
+  },
+  {
+    "patient_id": 1191,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.81
+  },
+  {
+    "patient_id": 1192,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.58
+  },
+  {
+    "patient_id": 1193,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1194,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1195,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1196,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.36
+  },
+  {
+    "patient_id": 1197,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1198,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.86
+  },
+  {
+    "patient_id": 1199,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1200,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.5
+  },
+  {
+    "patient_id": 1201,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.1
+  },
+  {
+    "patient_id": 1202,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.9
+  },
+  {
+    "patient_id": 1203,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.41
+  },
+  {
+    "patient_id": 1204,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1205,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.82
+  },
+  {
+    "patient_id": 1206,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.33
+  },
+  {
+    "patient_id": 1207,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1208,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.27
+  },
+  {
+    "patient_id": 1209,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.36
+  },
+  {
+    "patient_id": 1210,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.55
+  },
+  {
+    "patient_id": 1211,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.79
+  },
+  {
+    "patient_id": 1212,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1213,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.2
+  },
+  {
+    "patient_id": 1214,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.17
+  },
+  {
+    "patient_id": 1215,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1216,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.18
+  },
+  {
+    "patient_id": 1217,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.82
+  },
+  {
+    "patient_id": 1218,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1219,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1220,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1221,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.14
+  },
+  {
+    "patient_id": 1222,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1223,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1224,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.92
+  },
+  {
+    "patient_id": 1225,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.81
+  },
+  {
+    "patient_id": 1226,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.79
+  },
+  {
+    "patient_id": 1227,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1228,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1229,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.45
+  },
+  {
+    "patient_id": 1230,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1231,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1232,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1233,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1234,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1235,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.59
+  },
+  {
+    "patient_id": 1236,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.16
+  },
+  {
+    "patient_id": 1237,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.9
+  },
+  {
+    "patient_id": 1238,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1239,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1240,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1241,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1242,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1243,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.91
+  },
+  {
+    "patient_id": 1244,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.59
+  },
+  {
+    "patient_id": 1245,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.64
+  },
+  {
+    "patient_id": 1246,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.37
+  },
+  {
+    "patient_id": 1247,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1248,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1249,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1250,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1251,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.35
+  },
+  {
+    "patient_id": 1252,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1253,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1254,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1255,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.82
+  },
+  {
+    "patient_id": 1256,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.89
+  },
+  {
+    "patient_id": 1257,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.51
+  },
+  {
+    "patient_id": 1258,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1259,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1260,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.77
+  },
+  {
+    "patient_id": 1261,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1262,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1263,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.18
+  },
+  {
+    "patient_id": 1264,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.59
+  },
+  {
+    "patient_id": 1265,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.33
+  },
+  {
+    "patient_id": 1266,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1267,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.11
+  },
+  {
+    "patient_id": 1268,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.64
+  },
+  {
+    "patient_id": 1269,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.48
+  },
+  {
+    "patient_id": 1270,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1271,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.15
+  },
+  {
+    "patient_id": 1272,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.41
+  },
+  {
+    "patient_id": 1273,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1274,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.56
+  },
+  {
+    "patient_id": 1275,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.55
+  },
+  {
+    "patient_id": 1276,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.81
+  },
+  {
+    "patient_id": 1277,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.41
+  },
+  {
+    "patient_id": 1278,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.77
+  },
+  {
+    "patient_id": 1279,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1280,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1281,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1282,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.13
+  },
+  {
+    "patient_id": 1283,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1284,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1285,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.37
+  },
+  {
+    "patient_id": 1286,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1287,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.11
+  },
+  {
+    "patient_id": 1288,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.61
+  },
+  {
+    "patient_id": 1289,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.13
+  },
+  {
+    "patient_id": 1290,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.32
+  },
+  {
+    "patient_id": 1291,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.91
+  },
+  {
+    "patient_id": 1292,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1293,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.34
+  },
+  {
+    "patient_id": 1294,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.79
+  },
+  {
+    "patient_id": 1295,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1296,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1297,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1298,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1299,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.48
+  },
+  {
+    "patient_id": 1300,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.72
+  },
+  {
+    "patient_id": 1301,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1302,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1303,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.81
+  },
+  {
+    "patient_id": 1304,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1305,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1306,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.95
+  },
+  {
+    "patient_id": 1307,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1308,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1309,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1310,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.47
+  },
+  {
+    "patient_id": 1311,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.47
+  },
+  {
+    "patient_id": 1312,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.17
+  },
+  {
+    "patient_id": 1313,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.82
+  },
+  {
+    "patient_id": 1314,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.21
+  },
+  {
+    "patient_id": 1315,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1316,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1317,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.32
+  },
+  {
+    "patient_id": 1318,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.35
+  },
+  {
+    "patient_id": 1319,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1320,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.9
+  },
+  {
+    "patient_id": 1321,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1322,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.5
+  },
+  {
+    "patient_id": 1323,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1324,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.48
+  },
+  {
+    "patient_id": 1325,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1326,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1327,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1328,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1329,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1330,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.44
+  },
+  {
+    "patient_id": 1331,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1332,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.16
+  },
+  {
+    "patient_id": 1333,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1334,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.87
+  },
+  {
+    "patient_id": 1335,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1336,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.86
+  },
+  {
+    "patient_id": 1337,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.43
+  },
+  {
+    "patient_id": 1338,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1339,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1340,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.37
+  },
+  {
+    "patient_id": 1341,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1342,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.51
+  },
+  {
+    "patient_id": 1343,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1344,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1345,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.37
+  },
+  {
+    "patient_id": 1346,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.55
+  },
+  {
+    "patient_id": 1347,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.59
+  },
+  {
+    "patient_id": 1348,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1349,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.2
+  },
+  {
+    "patient_id": 1350,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.43
+  },
+  {
+    "patient_id": 1351,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1352,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.18
+  },
+  {
+    "patient_id": 1353,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1354,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.87
+  },
+  {
+    "patient_id": 1355,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1356,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1357,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1358,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.92
+  },
+  {
+    "patient_id": 1359,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1360,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.41
+  },
+  {
+    "patient_id": 1361,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.57
+  },
+  {
+    "patient_id": 1362,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1363,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.43
+  },
+  {
+    "patient_id": 1364,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1365,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1366,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1367,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1368,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.35
+  },
+  {
+    "patient_id": 1369,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.52
+  },
+  {
+    "patient_id": 1370,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.2
+  },
+  {
+    "patient_id": 1371,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1372,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.45
+  },
+  {
+    "patient_id": 1373,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1374,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1375,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.11
+  },
+  {
+    "patient_id": 1376,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.72
+  },
+  {
+    "patient_id": 1377,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.64
+  },
+  {
+    "patient_id": 1378,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1379,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1380,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.27
+  },
+  {
+    "patient_id": 1381,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.95
+  },
+  {
+    "patient_id": 1382,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1383,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1384,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1385,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1386,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1387,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1388,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1389,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.43
+  },
+  {
+    "patient_id": 1390,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.76
+  },
+  {
+    "patient_id": 1391,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.56
+  },
+  {
+    "patient_id": 1392,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.8
+  },
+  {
+    "patient_id": 1393,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1394,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1395,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.93
+  },
+  {
+    "patient_id": 1396,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1397,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.16
+  },
+  {
+    "patient_id": 1398,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1399,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1400,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.35
+  },
+  {
+    "patient_id": 1401,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.91
+  },
+  {
+    "patient_id": 1402,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.86
+  },
+  {
+    "patient_id": 1403,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.42
+  },
+  {
+    "patient_id": 1404,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.89
+  },
+  {
+    "patient_id": 1405,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1406,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1407,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.2
+  },
+  {
+    "patient_id": 1408,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.17
+  },
+  {
+    "patient_id": 1409,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.31
+  },
+  {
+    "patient_id": 1410,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.32
+  },
+  {
+    "patient_id": 1411,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1412,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1413,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1414,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.38
+  },
+  {
+    "patient_id": 1415,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1416,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1417,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.52
+  },
+  {
+    "patient_id": 1418,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1419,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1420,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.7
+  },
+  {
+    "patient_id": 1421,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.16
+  },
+  {
+    "patient_id": 1422,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.53
+  },
+  {
+    "patient_id": 1423,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.62
+  },
+  {
+    "patient_id": 1424,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1425,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1426,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.31
+  },
+  {
+    "patient_id": 1427,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1428,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1429,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 2,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1430,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1431,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.46
+  },
+  {
+    "patient_id": 1432,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1433,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.14
+  },
+  {
+    "patient_id": 1434,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.1
+  },
+  {
+    "patient_id": 1435,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1436,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1437,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.71
+  },
+  {
+    "patient_id": 1438,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.24
+  },
+  {
+    "patient_id": 1439,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1440,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.34
+  },
+  {
+    "patient_id": 1441,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.73
+  },
+  {
+    "patient_id": 1442,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1443,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1444,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.91
+  },
+  {
+    "patient_id": 1445,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1446,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.76
+  },
+  {
+    "patient_id": 1447,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.39
+  },
+  {
+    "patient_id": 1448,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.29
+  },
+  {
+    "patient_id": 1449,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.66
+  },
+  {
+    "patient_id": 1450,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.13
+  },
+  {
+    "patient_id": 1451,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1452,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.85
+  },
+  {
+    "patient_id": 1453,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1454,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.81
+  },
+  {
+    "patient_id": 1455,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.4
+  },
+  {
+    "patient_id": 1456,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.26
+  },
+  {
+    "patient_id": 1457,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.67
+  },
+  {
+    "patient_id": 1458,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.55
+  },
+  {
+    "patient_id": 1459,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.83
+  },
+  {
+    "patient_id": 1460,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1461,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.44
+  },
+  {
+    "patient_id": 1462,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.22
+  },
+  {
+    "patient_id": 1463,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.58
+  },
+  {
+    "patient_id": 1464,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.69
+  },
+  {
+    "patient_id": 1465,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.17
+  },
+  {
+    "patient_id": 1466,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.54
+  },
+  {
+    "patient_id": 1467,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.63
+  },
+  {
+    "patient_id": 1468,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.19
+  },
+  {
+    "patient_id": 1469,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.78
+  },
+  {
+    "patient_id": 1470,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1471,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1472,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.49
+  },
+  {
+    "patient_id": 1473,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1474,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1475,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 6,
+    "community_risk_index": 0.95
+  },
+  {
+    "patient_id": 1476,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1477,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.94
+  },
+  {
+    "patient_id": 1478,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 3,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1479,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.3
+  },
+  {
+    "patient_id": 1480,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.23
+  },
+  {
+    "patient_id": 1481,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.25
+  },
+  {
+    "patient_id": 1482,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.84
+  },
+  {
+    "patient_id": 1483,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.32
+  },
+  {
+    "patient_id": 1484,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": false,
+    "household_size": 1,
+    "community_risk_index": 0.76
+  },
+  {
+    "patient_id": 1485,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.58
+  },
+  {
+    "patient_id": 1486,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1487,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.74
+  },
+  {
+    "patient_id": 1488,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 3,
+    "community_risk_index": 0.75
+  },
+  {
+    "patient_id": 1489,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.16
+  },
+  {
+    "patient_id": 1490,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.42
+  },
+  {
+    "patient_id": 1491,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 2,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1492,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.65
+  },
+  {
+    "patient_id": 1493,
+    "insurance_type": "Medicaid",
+    "telehealth_follow_up": "missed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 5,
+    "community_risk_index": 0.89
+  },
+  {
+    "patient_id": 1494,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.28
+  },
+  {
+    "patient_id": 1495,
+    "insurance_type": "Uninsured",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 4,
+    "community_risk_index": 0.6
+  },
+  {
+    "patient_id": 1496,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "low",
+    "vaccinated": true,
+    "household_size": 1,
+    "community_risk_index": 0.88
+  },
+  {
+    "patient_id": 1497,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "high",
+    "vaccinated": false,
+    "household_size": 5,
+    "community_risk_index": 0.64
+  },
+  {
+    "patient_id": 1498,
+    "insurance_type": "Medicare",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": false,
+    "household_size": 4,
+    "community_risk_index": 0.1
+  },
+  {
+    "patient_id": 1499,
+    "insurance_type": "Private",
+    "telehealth_follow_up": "completed",
+    "exercise_level": "moderate",
+    "vaccinated": true,
+    "household_size": 6,
+    "community_risk_index": 0.25
+  }
+]

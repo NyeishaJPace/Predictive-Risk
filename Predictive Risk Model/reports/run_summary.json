@@ -1,0 +1,12 @@
+{
+  "rows_in_final_dataset": 500,
+  "columns_in_final_dataset": 28,
+  "anomalies_flagged": 30,
+  "metrics": {
+    "accuracy": 0.744,
+    "precision": 0.7545454545454545,
+    "recall": 0.9431818181818182,
+    "f1_score": 0.8383838383838383,
+    "roc_auc": 0.8531941031941032
+  }
+}
